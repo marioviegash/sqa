@@ -1,6 +1,7 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: black;
 }
 
 a {
@@ -9,3 +10,4 @@ a {
 }
 
 //ADD CHANGES STYLES
+//Add Color body in style.css
